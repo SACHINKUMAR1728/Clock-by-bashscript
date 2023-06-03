@@ -5,7 +5,7 @@ while true
 do
 	clear
 	echo $Green $(date +%A)
-	echo $Green Date: $(date +%m:%d:%Y)
+	echo $Green Date: $(date +%d:%m:%Y)
 	echo $Green Time: $(date +%T)
 	sleep 1
 done
