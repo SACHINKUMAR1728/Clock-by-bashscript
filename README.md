@@ -9,8 +9,8 @@ I have used basic commands of bash script such as:
 3) For current time
       echo $(date +%T)
 
-commands like "clear" is used to clear terminal and then "sleep 1" is used to wait for 1 second
-and then while loop repeats all the commands accordingly as written in our file clock.sh
-
+commands like "clear" is used to clear terminal and then "sleep 1" is used to wait for 1 second and 
+and then while loop repeats all the commands and therefore our current time gets updated each second accordingly as written in our file clock.sh
+color variable is used to change the color of this fonts.
   
   
